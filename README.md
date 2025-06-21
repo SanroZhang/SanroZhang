@@ -2,7 +2,7 @@
 - 👀 I’m interested in LLM
 - 🌱 I’m currently learning CANN and pytorch
 - 💞️ I’m looking to collaborate on my dream
-- 📫 How to reach me ？email：master@zhangjincheng.email
+- 📫 How to reach me ？email：owner@zhangjincheng.email
 
 <!---
 SanroZhang/SanroZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
